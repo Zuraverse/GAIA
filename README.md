@@ -1,4 +1,5 @@
-Welcome to the GAIA  repository, an open-source initiative to promote responsible AI and fuel the Regenerative Finance (ReFi) revolution. GAIA is an AI-powered agent designed to act as a resourceful, intelligent advocate for sustainability and innovation, spearheading the phenomenon we call RegenAIssance.
+# GAIA
+Welcome to GAIA, an open-source initiative to promote responsible AI and fuel the Regenerative Finance (ReFi) revolution. GAIA is an AI-powered agent designed to act as a resourceful, intelligent advocate for sustainability and innovation, spearheading the phenomenon we call RegenAIssance.
 
 This repository is part of our commitment to creating transparent, accountable, and impactful AI applications. By contributing to this project, you are helping to build the foundation of ethical AGI that empowers communities and fosters a greener planet.
 
@@ -21,13 +22,13 @@ Weather Updates: Share local weather conditions using external APIs.
 
 GAIA is more than an AI agent; she represents a movement toward sustainable living and financial inclusivity. By creating APIs and integrations, this bot serves as a cornerstone for AI-powered applications in the ReFi ecosystem. The bot also educates users about the unique selling points (USPs) and benefits of various ReFi protocols, empowering informed decision-making.
 
-# Technical Goals
+## Technical Goals
 
 Open Source Code: Promote collaboration and innovation in the AI and ReFi spaces.
 APIs for Integration: Develop robust APIs to enable GAIA's presence across applications.
 Training for ReFi Protocols: Equip GAIA with the ability to explain and advocate for sustainable finance protocols.
 
-# How to Contribute
+## How to Contribute
 
 We welcome contributions from developers, researchers, and enthusiasts passionate about AI and sustainability. Here's how you can help:
 
