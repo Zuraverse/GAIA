@@ -211,7 +211,7 @@ bot.on("message", async (msg) => {
       }
 
       try {
-        const apiKey = "6198977deb06f9bc369c596a9888dfb3";
+        const apiKey = process.env.WEATHER_API_KEY;
         const weatherAPIUrl = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&appid=${apiKey}`;
 
         const response = await axios.get(weatherAPIUrl);
